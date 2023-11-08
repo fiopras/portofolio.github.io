@@ -119,7 +119,8 @@ hr {
 
 #skill .card {
     background-color: #414558;
-    height: 340px;
+    height: 420px;
+    padding: 50px 30px;
 }
 
 #skill .card:hover {
